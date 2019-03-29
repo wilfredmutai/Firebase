@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "718781503444",
+    "firebase_url": "https://safari-firebase-app.firebaseio.com",
+    "project_id": "safari-firebase-app",
+    "storage_bucket": "safari-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718781503444:android:4da542dd13d59ac8",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.morningfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718781503444-ufmhs6l94635t8qn69ktm4duojut242g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvtaTsamk4OKxpHZliOJH2lEmYWEQBMlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
